@@ -1,7 +1,8 @@
 # bibliotheque_falabooks
 Framework Symfony 4
 Comprendre l'orm Doctrine, la gestion des formulaires, l'intégration des base de données
-Réalisation d'une application de gestion d'emprunts de livres (projet réalisé en binome)
+Savoir utiliser la validation des formulaires, des bundles, et les fonctionnalités avancées du framework
+Projet : Réalisation d'une application de gestion d'emprunts de livres (projet réalisé en bînome)
 
 Compétences acquises :
 - Démarrer un projet avec Symfony
